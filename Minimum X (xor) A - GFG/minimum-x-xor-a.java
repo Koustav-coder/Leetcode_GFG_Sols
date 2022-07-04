@@ -26,39 +26,43 @@ class GFG {
 // User function Template for Java
 
 class Solution {
-   public static int minVal(int a, int b) {
-       // code here
-       if(count(a)==count(b))
-           return a;
-       int count = count(b);
-       int x=a;
-       while(count(x)<count)
-           x++;
-       while(count(x)>count)
-           x--;
-       while(count(x)==count)
-       {
-           int xor1 = ((x+1)^a);
-           int xor2 = x^a;
-           if(xor1<xor2)
-               x++;
-           else
-               break;
-           while(count(x)<count)
-               x++;
-       }
-       if(count(x)>count)
-           x--;
-       return x;
-   }
-   static int count(int num)
-   {
-       int count = 0, temp = num;
-       while(temp!=0)
-       {
-           count += temp%2;
-           temp = temp>>1;
-       }
-       return count;
-   }
+    
+    public static int countBits(int n)
+    {
+        int count = 0;
+        while(n > 0)
+        {
+            count = count + (n&1);
+            n  = n >> 1; 
+        }
+        return count;
+    }
+    public static int minVal(int a, int b) {
+        //Find number of set bit in B
+        int bitsA = countBits(a);
+        int bitsB = countBits(b);
+        int diff = Math.abs(bitsA-bitsB);
+        
+        if(bitsA == bitsB) return a;
+        else if( bitsA > bitsB)
+        {
+            //Convet 1 t 0;
+            while(diff > 0)
+            {
+                a = a & (a - 1);
+                diff --;
+            }
+        }
+        else
+        {
+            //Convert 0 to 1
+            while(diff > 0)
+            {
+                a = a | (a + 1);
+                diff --;
+            }
+        }
+      
+        return a;
+    }
 }
