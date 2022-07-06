@@ -125,18 +125,29 @@ class Tree
 {
      public ArrayList<Integer> diagonal(Node root)
       {
-        Queue<Node> q = new LinkedList<>();
-        ArrayList<Integer> res = new ArrayList<>();
-        q.offer(root);
-        while (!q.isEmpty()) {
-            Node p = q.poll();
-            while (p != null) {
-                res.add(p.data);
-                if (p.left != null)
-                    q.offer(p.left);
-                p = p.right;
-            }
-        }
-        return res;
+           ArrayList<Integer> res = new ArrayList<>();
+           Queue<Node> q = new LinkedList<>();
+           Node temp = new Node(-1);
+           temp.left = root;
+           q.add(temp);
+           while(!q.isEmpty()){
+               
+               Node node = q.remove();
+               if(node.left != null)
+               {
+                   node = node.left;
+               }
+               else
+               {
+                   continue;
+               }
+               while(node != null)
+               {
+                   q.add(node);
+                   res.add(node.data);
+                   node = node.right;
+               }
+           }
+           return res;
       }
-}
+} 
