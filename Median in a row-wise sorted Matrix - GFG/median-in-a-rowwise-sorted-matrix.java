@@ -1,4 +1,4 @@
-// { Driver Code Starts
+//{ Driver Code Starts
 //Initial Template for Java
 
 import java.io.*;
@@ -16,12 +16,12 @@ class GFG
             String S[] = read.readLine().split(" ");
             int R = Integer.parseInt(S[0]);
             int C = Integer.parseInt(S[1]);
-            String line[] = read.readLine().trim().split("\\s+");
             int matrix[][] = new int[R][C];
             int c = 0;
             for(int i = 0; i < R; i++){
+                String line[]=read.readLine().trim().split(" ");
                 for(int j = 0; j < C; j++){
-                    matrix[i][j] = Integer.parseInt(line[c++]);
+                    matrix[i][j] = Integer.parseInt(line[j]);
                 }
             }
             Solution ob = new Solution();
@@ -30,23 +30,46 @@ class GFG
         }
     }
 }
+
 // } Driver Code Ends
 
 
 //User function Template for Java
 
 class Solution {
-     int median(int matrix[][], int r, int c) {
-       // code here        
-       int[] arr=new int[r*c];
-       int x=0;
-       for(int i=0; i<r; i++){
-           for(int j=0; j<c; j++){
-               arr[x++]=matrix[i][j];
-           }
-       }
-       Arrays.sort(arr);
-       int mid=arr.length/2;
-       return arr[mid];
-   }
+
+    int median(int matrix[][], int R, int C) {
+
+        // code here        
+
+        int x[]=new int[R*C];
+
+        int k=0;
+
+        for(int i=0;i<R;i++){
+
+            for(int j=0;j<C;j++){
+
+                x[k]=matrix[i][j];
+
+                k++;
+
+            }
+
+        }
+
+        Arrays.sort(x);
+
+    int n=x.length;
+
+    if(n%2==0)
+
+        return x[(n/2)-1];
+
+    else 
+
+        return x[(n-1)/2];
+
+    }
+
 }
