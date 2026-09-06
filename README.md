@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0115-distinct-subsequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -51,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
