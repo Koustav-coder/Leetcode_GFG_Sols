@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0835-image-overlap) |
 | [2029-stone-game-ix](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Minimax
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
