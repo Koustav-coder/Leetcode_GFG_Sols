@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0115-distinct-subsequences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0835-image-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
