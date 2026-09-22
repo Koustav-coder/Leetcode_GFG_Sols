@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3525-find-x-value-of-array-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
