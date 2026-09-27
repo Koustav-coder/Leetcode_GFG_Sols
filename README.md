@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0115-distinct-subsequences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3498-reverse-degree-of-a-string) |
@@ -93,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
