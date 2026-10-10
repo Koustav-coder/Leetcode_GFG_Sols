@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0678-valid-parenthesis-string) |
 | [2029-stone-game-ix](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3525-find-x-value-of-array-ii) |
 | [3640-trionic-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3640-trionic-array-ii) |
@@ -112,4 +114,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
