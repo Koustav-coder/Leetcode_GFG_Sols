@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3525-find-x-value-of-array-ii) |
 | [3640-trionic-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3640-trionic-array-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3693-climbing-stairs-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/0678-valid-parenthesis-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3640-trionic-array-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Koustav-coder/Leetcode_GFG_Sols/tree/master/3693-climbing-stairs-ii) |
 ## Tree
 |  |
 | ------- |
